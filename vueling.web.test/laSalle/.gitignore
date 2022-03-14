@@ -1,0 +1,10 @@
+.gradle/
+.idea/
+build/
+classes/
+target/
+*.log
+lib/
+*.iml
+.history/
+out/
